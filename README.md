@@ -21,12 +21,6 @@ Clone this repo locally using git in the command line and the following command
 
 # Author
 
-👤 **Oyewunmi Gbenga Kelvin**
-
-- GitHub: [github](https://github.com/kelomo2502)
-- Twitter: [twitter](https://twitter.com/kelomoJs,)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/oyewunmi-gbenga)
-
 ## 👤 Muhammad Shaheer
 
 - GitHub: [@ShaheerCH](https://github.com/ShaheerCH)
